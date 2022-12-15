@@ -1,4 +1,4 @@
-package backjun;
+package b01_입출력과사친연산;
 
 import java.util.Scanner;
 

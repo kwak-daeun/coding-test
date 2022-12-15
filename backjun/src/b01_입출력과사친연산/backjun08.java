@@ -1,4 +1,4 @@
-package backjun;
+package b01_입출력과사친연산;
 
 import java.util.Scanner;
 
@@ -21,14 +21,13 @@ public class backjun08 {
 		System.out.print(나이트 - 2 + " ");
 		System.out.println(폰 - 6 + " ");
 		
-		Scanner scanner = new Scanner(System.in);
 		
-		int king = scanner.nextInt();
-		int queen = scanner.nextInt();
-		int look = scanner.nextInt();
-		int beeshop = scanner.nextInt();
-		int night = scanner.nextInt();
-		int phone = scanner.nextInt();
+		int king = in.nextInt();
+		int queen = in.nextInt();
+		int look = in.nextInt();
+		int beeshop = in.nextInt();
+		int night = in.nextInt();
+		int phone = in.nextInt();
 		
 		System.out.print(king - 3 + " ");
 		System.out.print(queen - 1 + " ");
