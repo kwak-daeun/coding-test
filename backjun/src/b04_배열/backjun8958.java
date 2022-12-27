@@ -9,7 +9,7 @@ public class backjun8958 {
 		
 		int t = in.nextInt();
 		
-		String str; //문자열 선언ㄴ
+		String str; //문자열 선언
 		for(int i=0; i<t; i++) {
 			str = in.next();
 			
